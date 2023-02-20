@@ -65,5 +65,3 @@ L’argument par la santé est fallacieux : on peut rééquilibrer notre conso d
 - L’argument par la santé peut être employé de manière rigoureuse contre des objections: « Il faut manger de la viande pour être fort et en bonne santé. »
 - L’argument par l’écologie peut être employé si les interlocuteurs ont déjà révisé leurs positions
 
-test
-

@@ -94,25 +94,6 @@ cards-deck: Rhétorique::arguments
 
 [[Exemples#Arguments par l’exemple]]
 
-## Contre-arguments
 
-On ne contredit pas forcément dans l’objectif de détruire la position de l’interlocuteur. Nous pouvons également chercher à y introduire une correction, une variation ou une précision. Voire, simplement, vouloir l’éprouver au fer de nos objections.
 
-#### Objection ad-rem
-
-**Définition** ::  Consiste à attaquer directement les arguments déployés par notre interlocuteur.
-
-→ dépend de si on attaque la rigueur ou l’efficacité:
-- rigueur: peut être balayé si les propos sont contraires à la logique ou les faits
-- efficacité: perte d’impact de l’argument en partie ou en totalité
-
-[[Exemples#Objection ad-rem]]
-
-#### Objection ad-hominem
-
-→ Deux types:
-
-**Ad-hominem interne** :: On met en lumière deux éléments d’une ligne argumentative qui ne vont pas ensemble
-
-**Ad-hominem externe** :: On met en lumière une incohérence entre différentes paroles, ou entre des paroles et des actes
 
