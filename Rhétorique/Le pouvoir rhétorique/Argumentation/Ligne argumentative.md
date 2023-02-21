@@ -49,14 +49,18 @@ Hiérarchiser les arguments en terme de poids et de place
 
 **Objet du débat**: Arrêter la viande
 
-**3 arguments à disposition**:
+**3 arguments à disposition**
+
 - par l’écologie : la viande est une source importante de gaz à effet de serre
 - par la morale : l’élevage et l’abattage se font dans des conditions de souffrance extrême
 - par la santé : une consommation de viande excessive entraîne des problèmes médicaux
 
-**Constat**: ils ne se sentent pas concernés par le réchauffement climatique
+**Constat**
 
-**Solution**: 
+Ils ne se sentent pas concernés par le réchauffement climatique
+
+**Solution**
+
 Utiliser l’argument par la morale.
 L’argument par la santé est fallacieux : on peut rééquilibrer notre conso de viande sans arrêter. Faut-il l’utiliser tout de même en laissant de côté l’éthique ?
 

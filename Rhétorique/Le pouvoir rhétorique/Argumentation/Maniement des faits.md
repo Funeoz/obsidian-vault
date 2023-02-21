@@ -7,6 +7,7 @@ Nous allons pouvoir travailler les faits jusqu’à ce qu’ils servent notre en
 ### Dénégation
 
 **Définition** :: Nier les faits
+^1676894429342
 
 En niant avec force, on peut recréer du doute dans l’esprit des auditeurs.
 **Cela fonctionne mal si les faits reprochés sont trop importants.**
@@ -16,6 +17,7 @@ En niant avec force, on peut recréer du doute dans l’esprit des auditeurs.
 ### Interprétation
 
 **Définition** :: Reconnaître l’exactitude du fait reproché. Permet de restaurer notre respectabilité en répondant : “ce n’est pas vraiment ça”
+^1676894429350
 
 [[Exemples#Interprétation]]
 
@@ -24,6 +26,7 @@ En niant avec force, on peut recréer du doute dans l’esprit des auditeurs.
 **Procédé de dernier recours !** 
 
 **Définition** :: Reconnaître les accusations mais mettre en lumière des faits plus lourds pour faire paraître les premiers plus dérisoires. “Ce n’est pas grave”
+^1676894429354
 
 [[Exemples#Relativisation]]
 

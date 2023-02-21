@@ -29,3 +29,6 @@ cards-deck: Rhétorique::généralités
 Il y a une possibilité de déterminer une liste consensuelle d’arguments. Mais il y a deux désaccords:
 - Hiérarchie des valeurs différente
 - Perception du risque différente
+
+**Suite : [[Arguments]]**
+
