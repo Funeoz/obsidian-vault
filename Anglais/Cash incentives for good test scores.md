@@ -19,7 +19,7 @@ Then, you could say to me: “What distinguishes an advantaged student from a di
 
 On top of that, according to a study from Keskpaik and Rocher from 2011, if you want your kid to succeed at school in France, it is better that you give him books and take him to museums. Simply because in France, it’s what we call the “cultural capital” that influences the most how a kid succeeds at school.
 
-Therefore, it’s difficult to defend a system that rewards the same people: the people that had the chance to grow up in an advantaged family.
+Therefore, it’s difficult to defend a system that rewards the same students: the students that had the chance to grow up in an advantaged family.
 
 Now, let’s take it to another extent. If we are at school to learn for ourselves, how are sure that introducing cash incentives will not replace the goal of going to school, which is going to school for the sake of learning?
 
@@ -38,7 +38,7 @@ The same applies to kids and their education.
 Do we really want to introduce money in a field where children must learn for themselves at a young age?
 More globally, is it a good idea for our society to introduce market mechanisms in education, the field that builds up the sense of civic responsibility of our children ? Should we corrupt that ? 
 
-I think the answer is pretty clear. Giving cash incentives to students that have good test scores is not fair because still live in a society where inequalities remain. And it also raises moral issues that could be destructive of our society.
+I think the answer is pretty clear. Giving cash incentives to students that have good test scores is not fair because we still live in a society where inequalities remain. And it also raises moral issues that could be destructive of our society.
 
 Thank you.
 
